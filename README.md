@@ -1,3 +1,6 @@
+# Credits: Lucas Jenkins and Isabela Ayers. Original repo we collaborated on: https://github.com/LucasJenkins731/Github-GUI
+## In this repo, I hope to expand on our original creation. The original program and its changes can be viewed via the link above.
+
 # Github-GUI
 GitHub-GUI allows a user to create a Git repo and push it to right to GitHub.
 
